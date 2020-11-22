@@ -1,64 +1,123 @@
-# PrivacyPolicy
-隐私政策 
+PRIVACY POLICY
+Information and Data I Collect from You
+When you use our Services, you may give us your contact information directly on our Ibsite, generally your name and email address. I also collect certain information and data, such as your application usage, access, session times and in-app purchases, your unique device ID, hardware type, the version of your operating system (“OS”), your device name, your name, email address and cover photos (if you have connected to Facebook or Google+), and your general (city/country) location (based on your Internet Protocol (“IP”) address).
 
-LvTiancheng尊重并保护所有使用服务用户的个人隐私权。为了给您提供更准确、更有个性化的服务，LvTiancheng会按照本隐私权政策的规定使用和披露您的个人信息。但LvTiancheng将以高度的勤勉、审慎义务对待这些信息。除本隐私权政策另有规定外，在未征得您事先许可的情况下，LvTiancheng不会将这些信息对外披露或向第三方提供。LvTiancheng会不时更新本隐私权政策。 您在同意LvTiancheng服务使用协议之时，即视为您已经同意本隐私权政策全部内容。本隐私权政策属于LvTiancheng服务使用协议不可分割的一部分。 
+In addition, I create a unique user ID to track your use of our Service. This unique user ID is stored in connection with your profile information to track the HW games you are playing.
+I may occasionally send you push notifications through our mobile applications to send you game updates, high scores and other service related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
 
-1. 适用范围 
+I may collect non-personal information about you through our Service. Such information may include your operating system type and version, and the time and date of your visit to the Service.
 
-a) 在您注册LvTiancheng帐号时，您根据LvTiancheng要求提供的个人注册信息； 
+How I Use Your Information
+HW’s primary goals in using your information are to create your account, provide Services to you, troubleshoot, improve and optimize our Services, contact you, conduct research and create reports for internal use. I use information collected through our Service for purposes described in this Policy or disclosed to you in connection with our Service. For example, I may use your information to:
 
-b) 在您使用LvTiancheng网络服务，或访问LvTiancheng平台网页时，LvTiancheng自动接收并记录的您的浏览器和计算机上的信息，包括但不限于您的IP地址、浏览器的类型、使用的语言、访问日期和时间、软硬件特征信息及您需求的网页记录等数据； 
+· Create game accounts and allow users to play our games;
 
-c) LvTiancheng通过合法途径从商业伙伴处取得的用户个人数据。 
+· Identify and suggest connections with other HW users;
 
-您了解并同意，以下信息不适用本隐私权政策： 
+· Operate and improve our Services;
 
-a) 您在使用LvTiancheng平台提供的搜索服务时输入的关键字信息； 
+· Understand you and your preferences to enhance your experience and enjoyment using our Services;
 
-b) LvTiancheng收集到的您在LvTiancheng发布的有关信息数据，包括但不限于参与活动、成交信息及评价详情； 
+· Respond to your comments and questions and provide customer service;
 
-c) 违反法律规定或违反LvTiancheng规则行为及LvTiancheng已对您采取的措施。 
+· Provide and deliver products and services you request;
 
-2. 信息使用 
+· Deliver advertising and marketing and promotional information to you;
 
-a) LvTiancheng不会向任何无关第三方提供、出售、出租、分享或交易您的个人信息，除非事先得到您的许可，或该第三方和LvTiancheng（含LvTiancheng关联公司）单独或共同为您提供服务，且在该服务结束后，其将被禁止访问包括其以前能够访问的所有这些资料。 
+· Send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;
 
-b) LvTiancheng亦不允许任何第三方以任何手段收集、编辑、出售或者无偿传播您的个人信息。任何LvTiancheng平台用户如从事上述活动，一经发现，LvTiancheng有权立即终止与该用户的服务协议。 
+· Communicate with you about promotions, contests, rewards, upcoming events, and other news about products and services offered by HW and our selected partners;
 
-c) 为服务用户的目的，LvTiancheng可能通过使用您的个人信息，向您提供您感兴趣的信息，包括但不限于向您发出产品和服务信息，或者与LvTiancheng合作伙伴共享信息以便他们向您发送有关其产品和服务的信息（后者需要您的事先同意）。 
+· Conduct and administer contests promoted by HW;
 
-3. 信息披露 
+· Enable you to communicate with other users; and
 
-在如下情况下，LvTiancheng将依据您的个人意愿或法律的规定全部或部分的披露您的个人信息： 
+· Link or combine it with other information I get from third parties, to help understand your preferences and provide you with better services.
 
-a) 经您事先同意，向第三方披露； 
+Use of Your Information by Others
+Third Party Services. Our Services may contain third party tracking and data collection and analytics tools from our service providers, examples of which include Tenjin (http://www.tenjin.com/) and Helpshift (https://www.helpshift.com). Such third parties may use cookies, APIs, and SDKs in our Services to enable them to collect and analyze user and device related data and information on our behalf. The third parties may have access to and collect data and information about you, such as your device identifier, geo-location information, IP address, application usage, access and session times, applications present on the device or in use at a particular time on the device, and your viewing of and interactions with advertising, for the purpose of providing their services, including, for example, enabling, providing and delivering advertising as described in further detail below.
 
-b) 为提供您所要求的产品和服务，而必须和第三方分享您的个人信息； 
+The privacy policies of our service providers may include additional terms and disclosures regarding their data collection and use practices and tracking technologies, and I encourage you to check those privacy policies to learn more about their data collection and use practices, use of cookies and other similar tracking technologies.
 
-c) 根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
+Advertising. To the extent I display advertising in our Services, I may allow advertising networks of our affiliates and partner networks to collect information about your mobile device to enable them to serve targeted ads to you. Such mobile device data includes the following:
 
-d) 如您出现违反中国有关法律、法规或者LvTiancheng服务协议或相关规则的情况，需要向第三方披露；  
+· Device make, model and operating system;
 
-e) 如您是适格的知识产权投诉人并已提起投诉，应被投诉人要求，向被投诉人披露，以便双方处理可能的权利纠纷；
+· Device properties related to screen size & orientation, audio volume and battery;
 
-f) 在LvTiancheng平台上创建的某一交易中，如交易任何一方履行或部分履行了交易义务并提出信息披露请求的，LvTiancheng有权决定向该用户提供其交易对方的联络方式等必要信息，以促成交易的完成或纠纷的解决。  
+· Carrier;
 
-g) 其它LvTiancheng根据法律、法规或者网站政策认为合适的披露。  
+· Operating system;
 
-4. 信息存储和交换  
+· Name and properties of mobile application through which a consumer interacts with the Services;
 
-LvTiancheng收集的有关您的信息和资料将保存在LvTiancheng及（或）其关联公司的服务器上，这些信息和资料可能传送至您所在国家、地区或LvTiancheng收集信息和资料所在地的境外并在境外被访问、存储和展示。 
+· Country, time zone and locale settings (country and preferred language);
 
-5. Cookie的使用 
+· Network connection type and speed;
 
-a) 在您未拒绝接受cookies的情况下，LvTiancheng会在您的计算机上设定或取用cookies
+· IP Address;
 
-，以便您能登录或使用依赖于cookies的LvTiancheng平台服务或功能。LvTiancheng使用cookies可为您提供更加周到的个性化服务，包括推广服务。  b) 您有权选择接受或拒绝接受cookies。您可以通过修改浏览器设置的方式拒绝接受cookies。但如果您选择拒绝接受cookies，则您可能无法登录或使用依赖于cookies的LvTiancheng网络服务或功能。 
+· Internet browser user-agent used to access the Services; and
 
-c) 通过LvTiancheng所设cookies所取得的有关信息，将适用本政策。  
+· Identifier for advertisers (IDFA).
 
-6. 信息安全  
+The privacy policies of our partners may include additional terms and disclosures regarding their data collection and use practices and tracking technologies, and I encourage you to check those privacy policies to learn more about their data collection and use practices, use of cookies and other similar tracking technologies.
 
-a) LvTiancheng帐号均有安全保护功能，请妥善保管您的用户名及密码信息。LvTiancheng将通过对用户密码进行加密等安全措施确保您的信息不丢失，不被滥用和变造。尽管有前述安全措施，但同时也请您注意在信息网络上不存在“完善的安全措施”。  
+You may also limit data collection by third parties by using your mobile device settings. Please note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. Additionally, please not that if you use a different browser or erase cookies from your browser, or use a different mobile device, you may need to renew your opt-out choices.
 
-b) 在使用LvTiancheng网络服务进行网上交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息，如联络方式或者邮政地址。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。如您发现自己的个人信息泄密，尤其是LvTiancheng用户名及密码发生泄露，请您立即联络LvTiancheng客服，以便LvTiancheng采取相应措施。
+How I May Disclose Your Information to Third Parties
+HW does not share your personal information except as approved by you or as described herein.
+
+I may share information I collect or derive with third parties for the following purposes:
+
+· With service providers that perform services on our behalf, including the ones referenced above under “Third Party Services”;
+
+· With our affiliates;
+
+· For analytics and research purposes;
+
+· In response to subpoenas, court orders, or other legal processes;
+
+· To protect our or a third party’s legal rights, investigate fraud, or to defend against a legal claim;
+
+· As part of a business transfer such as a merger, acquisition, or at bankruptcy;
+
+· I may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties; and
+
+· I may use analytics services provided by third parties, including Google Analytics. These service providers may use cookies to collect information about your online activities across this and other sites over time for non-advertising purposes. To learn more about how Google analytics collects and processes data and the choices Google may offer to control these activities, you may visit http://www.google.com/intl/en/policies/privacy/partners/.
+
+Specific Provisions for EU Individuals
+Accessing and Correcting Your Personal Information. At any time, you may contact HW at the address provided in the “Contact HW Studios” section herein and request to access the personal data that HW holds about you. HW may need to ask you to provide certain information to make sure you are who you claim to be. If you find the information on your account is not accurate, complete or updated, then please provide HW with the necessary information to correct it.
+
+Withdrawing Your Consent. Contact us if you would like to withdraw your consent to the processing of your personal data. Exercising this right will not affect the lawfulness of processing based on consent before withdrawal.
+
+Erasing or Restricting Access to Your Information. You may request to delete or restrict access to your personal data. I may postpone or deny your request if your personal data is in current use for providing Services or for other legitimate purposes, in which case I will let you know if I are unable to do so and why.
+
+Transferring your Personal Data (Otherwise known as Your Right to Data Portability). You have the right to receive your personal data that you have provided us in a structured, commonly used and machine readable format and the right to transmit that data to another party of your choice, where technically feasible. HoIver, this right shall not apply where it would adversely affect the rights and freedoms of others.
+
+Right to Make Complaint: if you consider that our processing of your personal data infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.
+
+If you have any concerns about the way I process your personal data, you are Ilcome to contact our data protection officer at y723484094@gmail.com or write to us at the address set forth in the “Contact HW Studios” section. I will look into your request and make good faith efforts to resolve any concern you may have.
+
+Security Safeguards. HW takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties. Although I make good faith efforts to store the information collected on the Services in a secure operating environment that is not available to the public, I cannot guarantee the absolute security of that information during its transmission or its storage on our systems. Further, while I attempt to ensure the integrity and security of our network and systems, I cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining access to this information. I do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties. No method of transmission over the Internet, or method of electronic storage, is 100% secure, hoIver. Therefore, I cannot guarantee its absolute security.
+
+Data Retention. HW retains your personal data for as long as needed to provide you Services, unless I are required by law to delete or if HW accepts your request to delete the information. I will also retain and use your personal data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+Our Policy Regarding Children. I do not knowingly collect or solicit personal data from anyone under the age of 16 or knowingly allow such persons to use our Services. If you are under 16, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under the age of 16 may provide any personal data. In the event that I learn that I have collected personal data from a child under age 16, I will delete that information as quickly as possible. If you believe that I might have any information from or about a child under the age of 16, please contact us.
+
+Transfer of Personal Data Outside Your Country. I may transfer information that I collect about you to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions around the world. Please note that these countries and jurisdictions may not have the same data protection laws as your own jurisdiction, and I take steps to ensure adequate safeguards are in place to enable transfer of information to the U.S. and the use and disclosure of information about you, including personal data, as described in this Policy.
+
+Lawful Basis for Processing. On certain occasions, I process your personal data when it is necessary for the performance of a contract to which you are a party, such as to provide the Services to you. I may also process your personal data to respond to your inquiries concerning our products and services.
+
+On other occasions, I process your personal data where required by law. I may also process your personal data if necessary to protect your interests or the interests of a third party.
+
+Additionally, I process your personal data when necessary to do so for fraud prevention, improving our network and services, and marketing our services to advertisers and publishers; where these interests are not overridden by your data protection rights.
+
+If the processing of personal data is necessary and there is no other lawful basis for such processing, I will generally ensure that consent has been obtained from you. You have the right to withdraw your consent to processing of personal data at any time.
+
+For questions about data processing, please contact our Data Protection Officer. Visit the “Contact HW Studios” section below for contact information.
+
+Changes to This Policy. I may update this Policy to reflect changes to our data and information privacy practices. If I make any material changes I will notify you by means of a notice on the Services prior to the change becoming effective. I encourage you to periodically review this Policy for the latest information on our privacy practices. Please note that if HW needs to adapt the policy to legal requirements, the new policy will become effective immediately or as required.
+
+Contact me
+You may contact me at starblazestudio@outlook.com
